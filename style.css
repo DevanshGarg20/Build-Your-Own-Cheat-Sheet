@@ -1,0 +1,37 @@
+body {
+  background-color: brown;
+}
+
+header {
+  font-weight: bold;
+  text-align: center;
+  font-family: Verdana;
+  color: aquamarine;
+}
+
+main {
+  margin-left: 200px;
+  margin-top: 75px;
+}
+
+tr th {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 600;
+  color: rgb(79, 63, 224);
+  background-color: palevioletred;
+  text-align: center;
+}
+
+tr td {
+  font-family: cursive;
+  font-weight: 400;
+  color: rgb(79, 63, 224);
+  text-align: center;
+  background-color: white;
+}
+.first {
+  background-color: peru;
+}
+.last {
+  text-align: start;
+}
